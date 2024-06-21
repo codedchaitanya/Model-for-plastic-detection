@@ -82,14 +82,4 @@ Once the input file is selected, the classifier will output the predictions for 
 
 <br/>
 
-## Contributors
-
-| [<img src="https://avatars3.githubusercontent.com/u/4924614" width="100px;"/><br /><sub><b>Arun Michael Dsouza</b></sub>](https://github.com/ArunMichaelDsouza)<br />| [<img src="https://avatars3.githubusercontent.com/u/11679543" width="100px;"/><br /><sub><b>Royal Bhati</b></sub>](https://github.com/royalbhati)<br />|
-| :---: | :---: |
-
-
-[Many thanks for the Dataset which was obtained from this Git project](https://github.com/garythung/trashnet)
-
-<br/>
-
 
